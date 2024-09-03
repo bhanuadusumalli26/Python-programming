@@ -1,3 +1,4 @@
+#python program to find factorial of a given number"
 num=int(input("Enter a number: "))
 factorial=1
 if num<0:
