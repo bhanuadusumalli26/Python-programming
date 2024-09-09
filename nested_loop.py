@@ -4,8 +4,8 @@ for fruit in list_fruits:
     for i in fruit:
         print(i,end=" @ ")
     print()
-
-
+    
+    
 color=['red','green','blue']
 items=['apple','veggies','shirt']
 for x in color:
