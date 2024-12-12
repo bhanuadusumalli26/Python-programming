@@ -1,6 +1,3 @@
-
-# write a function to  sum of two numbers
->>>>>>> feature/dnd
 def rorate_array(arr, d):
     n = len(arr)
     if d < 0 or d >= n:
